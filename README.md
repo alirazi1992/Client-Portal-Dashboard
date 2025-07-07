@@ -15,6 +15,15 @@ A responsive, RTL-enabled client portal built for ship owners and inspection age
 |------------------|------------------|----------------|
 | ![dashboard](./public/1.png) | ![form](./public/2.png) | ![status](./public/3.png) |
 
+
+
+| Certificates | History | Support |
+|------------------|------------------|----------------|
+| ![dashboard](./public/4.png) | ![form](./public/5.png) | ![status](./public/6.png) |
+
+
+
+
 ---
 
 ## ✨ Features
