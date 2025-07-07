@@ -13,7 +13,7 @@ A responsive, RTL-enabled client portal built for ship owners and inspection age
 
 | Dashboard (RTL) | Inspection Form | Survey Status |
 |------------------|------------------|----------------|
-| ![dashboard](./public/1.png) | ![form](./screenshots/form.png) | ![status](./screenshots/status.png) |
+| ![dashboard](./public/1.png) | ![form](./public/2.png) | ![status](./public/3.png) |
 
 ---
 
